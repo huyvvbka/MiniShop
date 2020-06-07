@@ -1,0 +1,6 @@
+module Pods_MiniShop {
+  umbrella header "Pods-MiniShop-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940943694336",
+    "firebase_url": "https://minishop-c6b9e.firebaseio.com",
+    "project_id": "minishop-c6b9e",
+    "storage_bucket": "minishop-c6b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940943694336:android:493c46fd805e95ea71d6e5",
+        "android_client_info": {
+          "package_name": "com.minishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940943694336-8fvge1kglio5q0k1m727a37g3g7okae1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH36po3SILUwM3ncxHjnjbxL9vBhDW_Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940943694336-8fvge1kglio5q0k1m727a37g3g7okae1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940943694336-nbvv3m7mndcq93qc22bdmlo1rq3eqgct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.MiniShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+module Pods_MiniShop_MiniShopTests {
+  umbrella header "Pods-MiniShop-MiniShopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

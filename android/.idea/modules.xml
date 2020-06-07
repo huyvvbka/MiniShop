@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiniShop.iml" filepath="$PROJECT_DIR$/.idea/modules/MiniShop.iml" group="MiniShop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MiniShop/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1060784869/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1060784869/react-native-firebase_app.iml" group="MiniShop/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/728482734/react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/728482734/react-native-firebase_auth.iml" group="MiniShop/react-native-firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1889728170/react-native-navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/1889728170/react-native-navigation.iml" group="MiniShop/react-native-navigation" />
+    </modules>
+  </component>
+</project>
