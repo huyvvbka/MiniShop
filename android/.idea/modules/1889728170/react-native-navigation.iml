@@ -72,8 +72,8 @@
     <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app">
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/ap_generated_sources/reactNative62Debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/aidl_source_output_dir/reactNative62Debug/compileReactNative62DebugAidl/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/source/buildConfig/reactNative62/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/renderscript_source_output_dir/reactNative62Debug/compileReactNative62DebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/source/buildConfig/reactNative62/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/res/rs/reactNative62/debug" type="java-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/res/resValues/reactNative62/debug" type="java-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/src/reactNative62Debug/res" type="java-resource" />
@@ -83,10 +83,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/src/reactNative62Debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/src/reactNative62Debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/src/reactNative62Debug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/ap_generated_sources/reactNative62DebugAndroidTest/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/aidl_source_output_dir/reactNative62DebugAndroidTest/compileReactNative62DebugAndroidTestAidl/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/source/buildConfig/androidTest/reactNative62/debug" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/renderscript_source_output_dir/reactNative62DebugAndroidTest/compileReactNative62DebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/source/buildConfig/androidTest/reactNative62/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/aidl_source_output_dir/reactNative62DebugAndroidTest/compileReactNative62DebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/ap_generated_sources/reactNative62DebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/res/rs/androidTest/reactNative62/debug" type="java-test-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/build/generated/res/resValues/androidTest/reactNative62/debug" type="java-test-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-navigation/lib/android/app/src/androidTestReactNative62Debug/res" type="java-test-resource" />

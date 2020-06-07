@@ -10,11 +10,20 @@ export default App = () => {
   );
 }
 
+App.options = {
+  topBar: {
+    title: {
+      text: 'Home'
+    }
+  }
+}
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: 'column',
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: 'rgb(255, 90, 102)'
   }
 })
